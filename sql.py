@@ -3,7 +3,7 @@ import pyttsx3
 import streamlit as st
 # from dotenv import load_dotenv
 
-genai.configure(api_key="AIzaSyDfa9KNszXqNB51D0R3yi3Ozm7LyUHQoh8")
+genai.configure(api_key="API_KEY")
 
 # Set up the model
 generation_config = {
